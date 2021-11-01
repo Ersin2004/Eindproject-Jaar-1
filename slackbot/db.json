@@ -1,0 +1,31 @@
+{
+    "data":[
+        {
+            "naam": "Jayne",
+            "date": "15 oktober",
+            "year": "1996"
+        },
+        {
+            "naam": "Ozan",
+            "date": "4 maart",
+            "year": "1995"
+        },
+        {
+            "naam": "Ugur",
+            "date": "22 december",
+            "year": "2002"
+        },
+        {
+            "naam": "Ersin",
+            "date": "19 november",
+            "year": "2002"
+        },
+        {
+            "naam": "Terts",
+            "date": "7 mei",
+            "year": "1996"
+        }
+
+
+    ]
+}
